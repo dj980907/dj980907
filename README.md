@@ -1,10 +1,12 @@
-Hi! I am Dongjoo Lee.
-You can call me DJ or Dongjoo, whichever is easier for you... 👀
-I am currently a student in New York University, majoring in computer science and economics seeking to better understand coding and software development.
-My expertise includes Python, Java and R studio. 
-I completed introduction to computer science, data structures, and discrete math and looking to take basic algorithms and computer systems organization.
-Currently, I am seeking to find projects to collaborate with that will allow me to learn how to develop computer programs and be more familiar with coding. 
-Email me at dj980907@gmail.com if you want to talk about projects!
+Greetings,
+<br><br>
+I am Dongjoo Lee, a seasoned Software Developer currently employed at Banyan Growth Group, where I contribute my expertise in Java and JavaScript to drive innovative solutions and propel organizational growth.
+<br><br>
+Should you wish to discuss potential collaborations or explore project opportunities, please feel free to reach out to me at dj980907@gmail.com. I look forward to engaging in fruitful conversations.
+<br><br>
+Best regards,
+<br>
+Dongjoo Lee
 <!---
 dj980907/dj980907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
