@@ -1,6 +1,6 @@
 Greetings,
 <br><br>
-I am Dongjoo Lee, a seasoned Software Developer currently employed at Banyan Growth Group, where I contribute my expertise in Java and JavaScript to drive innovative solutions and propel organizational growth.
+I am Dongjoo Lee, a seasoned Software Developer currently employed at Banyan Growth Group, where I contribute my expertise in Java,Node.js, and React to drive innovative solutions and propel organizational growth.
 <br><br>
 Should you wish to discuss potential collaborations or explore project opportunities, please feel free to reach out to me at dj980907@gmail.com. I look forward to engaging in fruitful conversations.
 
